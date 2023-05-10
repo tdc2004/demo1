@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab1_ph40493</string>
+<!--    <string name="textview1">TextView</string>-->
+<!--    <string name="t_ng_doanh_ch_nh_ph40493">Tống Doanh Chính - PH40493</string>-->
+    <string name="content">
+        Các thành phần cơ bản trong android: \n
+        1. Activity \n
+        2. Service \n
+        3. ContentProvider \n
+        4. BroadcastReceive \n
+    </string>
+</resources>
